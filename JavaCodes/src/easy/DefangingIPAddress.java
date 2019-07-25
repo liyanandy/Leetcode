@@ -4,7 +4,7 @@ public class DefangingIPAddress {
 	/*
 	 * Time: 10mins
 	 * Date: 2019-07-25
-	 * Time Complexity: O(N)
+	 * Time Complexity: O(N), where N is the length of address
 	 */
 	public String defangIPaddr(String address) {
 		if (address == null || address.length() == 0)
