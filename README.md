@@ -5,6 +5,6 @@
 
 ## Easy:
 
-[771. Jewels and Stones:fire:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/JewelsAndStones.java)
+[771. Jewels and Stones:heavy_check_mark:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/JewelsAndStones.java)
 
-[1108. Defanging an IP Address:fire:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/DefangingIPAddress.java)
+[1108. Defanging an IP Address:heavy_check_mark:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/DefangingIPAddress.java)
