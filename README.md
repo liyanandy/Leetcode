@@ -5,6 +5,10 @@
 
 ## Easy:
 
+[1. Two Sums:fire:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/TwoSums.java)
+
+[7. Reverse Integer:heavy_check_mark:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/reverseInteger.java)
+
 [709. To Lower Case:heavy_check_mark:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/toLowerCase.java)
 
 [771. Jewels and Stones:heavy_check_mark:](https://github.com/tonyli1121/Leetcode/blob/master/JavaCodes/src/easy/JewelsAndStones.java)
